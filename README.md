@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/sunaif-adkar">sunaif-adkar</a> to
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GS6WZFCyrl60pszygT9wPS)
   <div align="center">
        
 ## BGM SUPPORTS 🎼
